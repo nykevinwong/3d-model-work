@@ -8,7 +8,7 @@
 5  press space, search and select "bisect"
 6. once a cut is down via mouse. press F6 and make sure that 'fill' and 'clear out' are checked.
 
-# Useful Links for Game Development
-## http://doc.mapeditor.org/en/latest/manual/introduction/ Great Tiled Map Editor Documetnation
-## https://www.youtube.com/watch?v=mciQrSYCTIs&index=12&list=PLbtmK3GOao6Xg2BMASQE3d7ZQnNc5c9YB Render 3d Pokemon Model as Pixel Art in Blender
-## https://www.youtube.com/watch?v=WHc93Bzfpuw&list=PLbtmK3GOao6Xg2BMASQE3d7ZQnNc5c9YB&index=13 Quick Pixel Art Tutorial in Blender
+## Useful Links for Game Development
+1. http://doc.mapeditor.org/en/latest/manual/introduction/ Great Tiled Map Editor Documetnation
+2. https://www.youtube.com/watch?v=mciQrSYCTIs&index=12&list=PLbtmK3GOao6Xg2BMASQE3d7ZQnNc5c9YB Render 3d Pokemon Model as Pixel Art in Blender
+3. https://www.youtube.com/watch?v=WHc93Bzfpuw&list=PLbtmK3GOao6Xg2BMASQE3d7ZQnNc5c9YB&index=13 Quick Pixel Art Tutorial in Blender
