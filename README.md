@@ -17,4 +17,4 @@
 # Blender Tricks
 - How to fix see-through model after importing: Properties Editor > Material Tab > Settings > Show Backface 
 - How to fix blurry pixel-art texture: Properties Editor > Material Tab > Surface > Base Color > change Liner to Cloest under texture image name.
- 
+- How to paint pixel by pixel on texture in Texture Painting View: Properties Editor > Tool Tab > Texture Slot > Select Single Image from Mode dropdown > Select Closet instead of Linear.
